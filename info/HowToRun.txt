@@ -1,0 +1,4 @@
+Run any of the following files from the folder DragRace:
+	Drag-p1.exe
+	Drag-p1a.exe
+	Drag-p1t.exe (tutorial)
